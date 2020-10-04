@@ -1,0 +1,11 @@
+C:\Users\Вова\AppData\Local\Temporary Projects\Test01test\bin\Debug\Test01test.exe
+C:\Users\Вова\AppData\Local\Temporary Projects\Test01test\bin\Debug\Test01test.pdb
+C:\Users\Вова\AppData\Local\Temporary Projects\Test01test\obj\x86\Debug\MainWindow.baml
+C:\Users\Вова\AppData\Local\Temporary Projects\Test01test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Вова\AppData\Local\Temporary Projects\Test01test\obj\x86\Debug\App.g.cs
+C:\Users\Вова\AppData\Local\Temporary Projects\Test01test\obj\x86\Debug\Test01test_MarkupCompile.cache
+C:\Users\Вова\AppData\Local\Temporary Projects\Test01test\obj\x86\Debug\Test01test.g.resources
+C:\Users\Вова\AppData\Local\Temporary Projects\Test01test\obj\x86\Debug\Test01test.Properties.Resources.resources
+C:\Users\Вова\AppData\Local\Temporary Projects\Test01test\obj\x86\Debug\Test01test.csproj.GenerateResource.Cache
+C:\Users\Вова\AppData\Local\Temporary Projects\Test01test\obj\x86\Debug\Test01test.exe
+C:\Users\Вова\AppData\Local\Temporary Projects\Test01test\obj\x86\Debug\Test01test.pdb

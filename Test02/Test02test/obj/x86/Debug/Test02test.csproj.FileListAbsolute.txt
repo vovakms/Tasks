@@ -1,0 +1,22 @@
+C:\Users\Вова\AppData\Local\Temporary Projects\Test02test\bin\Debug\Test02test.exe
+C:\Users\Вова\AppData\Local\Temporary Projects\Test02test\bin\Debug\Test02test.pdb
+C:\Users\Вова\AppData\Local\Temporary Projects\Test02test\obj\x86\Debug\MainWindow.baml
+C:\Users\Вова\AppData\Local\Temporary Projects\Test02test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Вова\AppData\Local\Temporary Projects\Test02test\obj\x86\Debug\App.g.cs
+C:\Users\Вова\AppData\Local\Temporary Projects\Test02test\obj\x86\Debug\Test02test_MarkupCompile.cache
+C:\Users\Вова\AppData\Local\Temporary Projects\Test02test\obj\x86\Debug\Test02test.g.resources
+C:\Users\Вова\AppData\Local\Temporary Projects\Test02test\obj\x86\Debug\Test02test.Properties.Resources.resources
+C:\Users\Вова\AppData\Local\Temporary Projects\Test02test\obj\x86\Debug\Test02test.csproj.GenerateResource.Cache
+C:\Users\Вова\AppData\Local\Temporary Projects\Test02test\obj\x86\Debug\Test02test.exe
+C:\Users\Вова\AppData\Local\Temporary Projects\Test02test\obj\x86\Debug\Test02test.pdb
+C:\Users\Вова\Desktop\C#Test\Test02test\Test02test\obj\x86\Debug\Test02test.exe
+C:\Users\Вова\Desktop\C#Test\Test02test\Test02test\obj\x86\Debug\Test02test.pdb
+C:\Users\Вова\Desktop\C#Test\Test02test\Test02test\bin\Debug\Test02test.exe
+C:\Users\Вова\Desktop\C#Test\Test02test\Test02test\bin\Debug\Test02test.pdb
+C:\Users\Вова\Desktop\C#Test\Test02test\Test02test\obj\x86\Debug\MainWindow.baml
+C:\Users\Вова\Desktop\C#Test\Test02test\Test02test\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Вова\Desktop\C#Test\Test02test\Test02test\obj\x86\Debug\App.g.cs
+C:\Users\Вова\Desktop\C#Test\Test02test\Test02test\obj\x86\Debug\Test02test_MarkupCompile.cache
+C:\Users\Вова\Desktop\C#Test\Test02test\Test02test\obj\x86\Debug\Test02test.g.resources
+C:\Users\Вова\Desktop\C#Test\Test02test\Test02test\obj\x86\Debug\Test02test.Properties.Resources.resources
+C:\Users\Вова\Desktop\C#Test\Test02test\Test02test\obj\x86\Debug\Test02test.csproj.GenerateResource.Cache
